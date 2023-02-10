@@ -1,8 +1,8 @@
 zoneinfo
 requests
-pandas 
+pandas==1.5.3
 textblob
-numpy
+numpy==1.24.2
 plotly
 ipywidgets
 tqdm
