@@ -1,4 +1,3 @@
-zoneinfo
 requests
 pandas==1.5.3
 textblob
