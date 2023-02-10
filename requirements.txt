@@ -7,7 +7,6 @@ backcall==0.2.0
 beautifulsoup4==4.11.2
 bleach==6.0.0
 brotli==1.0.9
-brotli-bin==1.0.9
 brotlipy==0.7.0
 bzip2==1.0.8
 ca-certificates==2022.12.7
