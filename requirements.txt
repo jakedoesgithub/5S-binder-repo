@@ -7,3 +7,4 @@ ipywidgets
 tqdm
 pytz
 matplotlib
+viola
