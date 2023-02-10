@@ -5,6 +5,5 @@ numpy
 plotly
 ipywidgets
 tqdm
-dotenv
 pytz
 matplotlib
